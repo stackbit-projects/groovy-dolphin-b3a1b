@@ -23,6 +23,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
+    has_border: true
   - type: grid_section
     title: 'Read by marketers at:'
     align: center
